@@ -35,10 +35,10 @@ The study helps in understanding **what motivates consumers to buy Maggi Masala 
 ---
 👨‍💻 Team Members
 
-Raj Yadav
-Swayam Jaiswal
-Akhilesh Yadav
-Bagish Dubey
+- Raj Yadav
+- Swayam Jaiswal
+- Akhilesh Yadav
+- Bagish Dubey
 ---
 📢 Disclaimer
 
