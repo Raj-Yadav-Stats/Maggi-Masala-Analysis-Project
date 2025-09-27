@@ -33,13 +33,6 @@ The study helps in understanding **what motivates consumers to buy Maggi Masala 
 - **Jupyter Notebook**  
 
 ---
-👨‍💻 Team Members
-
-- Raj Yadav
-- Swayam Jaiswal
-- Akhilesh Yadav
-- Bagish Dubey
----
 📢 Disclaimer
 
 This project was conducted for academic purposes only and is not affiliated with or endorsed by Nestlé.
